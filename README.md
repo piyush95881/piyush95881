@@ -20,7 +20,7 @@ I’m a **Full Stack Developer** and a final-year **B.Tech Computer Science** st
 
 ## 🤝 Open to Collaboration
 
-I'm looking to collaborate on **real-world projects** that bring value and solve real problems – especially in **web, mobile**, or **open-source** development.
+I'm looking to collaborate on **real-world projects** that bring value and solve real problems – especially in **web or **open-source** development.
 
 ---
 
